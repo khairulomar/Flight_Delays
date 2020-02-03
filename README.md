@@ -1,1 +1,3 @@
-# Mod 5 Project : Flight delays at Newark Airport
+# Flight delays at Newark Airport
+
+<img src = "images/newark_united.jpeg">
