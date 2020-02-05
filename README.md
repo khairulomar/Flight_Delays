@@ -24,7 +24,7 @@ Our target audience is United Airlines. Other airlines operating at Newark Liber
 
 In this report, we attempt to determine factors affecting United Airlines' delays (both departure and arrival) at the airport. Flight delays have negative impacts for airlines, airports and customers. Being able to predict flight delays will help passengers help their time and cost. If the airline can warn its passengers in advance, it can be a great support for their marketing strategy as airlines rely on cusomers' loyalty to support their frequent-flyer programmes. On the other hand, airlines will also be able to avoid penalties, fines, additional operational costs such as crew and aircrafts retention at the airport. Furthermore, environmentally flight delays cause damage by increasing fuel consumption and gas emission.
 
-For this purpose, we have chosen the 2015 Flight Delays and Cancellations provided by the Department of Transportation on Kaggle which contains three csv fies of airports, airlines and flights. In combination with this dataset, we have exploited the Dark Sky API and plane registration dates from FAA to see whether weather and plane age or condition would affect the airline's delays or not.
+For this purpose, we have chosen the 2015 flight delays data from Dept of Transportation via Kaggle. In addition, we have also brought together data from Dark Sky weather API and aircraft registration data from FAA to deep deeper into the effects of weather conditions and the airline's fleet.
 
 ### 5. Methodology
 
