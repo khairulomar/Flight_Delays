@@ -41,7 +41,7 @@ Due to imbalanced data between on-time and delayed data, we employed a SMOTE ove
 | Data set | Sampling | Power (TPr) | Alpha (FPr) | Beta (FNr) |
 | --- | --- | :---: | :---: | :---: |
 | Training data | SMOTE | 87% | 15% | 13% |
-| Test data | Original set | 54% | 22% | 46% |
+| Test data | no sampling | 54% | 22% | 46% |
 
 At this stage, our model is only able to predict just over half of delayed flights. The high false negative is a concern as our aim was to reduce this error since it would be costlier for United Airlines to be unprepared for a flight delay when there is one, more so than to be slightly over-prepared for a delay when there is none.
 
