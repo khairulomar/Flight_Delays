@@ -43,9 +43,9 @@ Due to imbalanced data between on-time and delayed data, we employed a SMOTE ove
 | Training data | SMOTE | 87% | 15% | 13% |
 | Test data | Original set | 54% | 22% | 46% |
 
-<img src="images\model_results.png">
+The lower performing test results suggest that there has been some overfitting during our training stages. However, we are confident that our test results can be improved further given more time considering computational resource limitations that we faced in order to run more hyperparameter tuning tasks.
 
-Our model and test results are currently limited to resource limitations, both in terms of time and computational power. We are confident that the results could be improved further if these challenges are addressed.
+<img src="images\model_results.png">
 
 ### 7. Recommendations
 
