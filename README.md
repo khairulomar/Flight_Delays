@@ -18,9 +18,9 @@ Newark Liberty International Airport is ranked as the worst US airport in terms 
 
 In this report, we seek to determine factors affecting United Airlines' delays (both departure and arrival) and if these factors could be reliably used as predictors to forecast if a given flight is delayed. Flight delays have negative impacts for airlines, airports and customers. For the airline, the ability to warn its passengers in advance and to be prepared with contingency plans would help them to retain the loyalty of its customer base and maintain a good public image. On the costs side of the equation, the airline will also be able to be better prepared to manage compensations, penalties and additional operational costs such as crew and aircraft retention.
 
-For this purpose, we have chosen the 2015 flight delays data from Dept of Transportation via Kaggle. In addition, we have also brought together data from Dark Sky weather API and aircraft registration data from FAA to deep deeper into the effects of weather conditions and the airline's fleet.
-
 ### 4. Methodology
+
+We have chosen flight delays data for full year 2015 from Dept of Transportation via Kaggle. In addition, we also brought together data from Dark Sky weather API and aircraft registration data from FAA to deep deeper into the effects of weather conditions and the airline's fleet.
 
 After data cleansing, EDA and feature selection processes, we explored several classification models including Logistic Regression, Decision Tree, Random Forest, AdaBoost, Gradient Boost and SVM using train and validation data sets to classify whether a flight would be delayed or not. For the first three models, we also employed grid search with k-fold cross-validation technique to find the optimum value for the hyperparameters. After comparing the results from the different models, we decided upon Random Forest as the best model. The final stage of the the process is to identify the appropriate threshold for our model based on the airline's business needs and perform a final evaluation of the model using test data set.
 
