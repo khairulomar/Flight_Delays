@@ -28,7 +28,7 @@ For this purpose, we have chosen the 2015 Flight Delays and Cancellations provid
 
 ### 5. Methodology
 
-We attempted to use Logistic Regression, Decision Tree, Random Forest, AdaBoost, Gradient Boost and SVM to classify whether a flight would be delayed or not. After comparing the results from the different models, we chose Random Forest as the best model. Based on our findings, we would be able to identify the biggest factors to delayed flights. Note that our model and test results are currently limited to resource limitations, both in terms of time and computational power. We are confident that the results could be improved further if these challenges are addressed.
+We attempted to use Logistic Regression, Decision Tree, Random Forest, AdaBoost, Gradient Boost and SVM to classify whether a flight would be delayed or not. After comparing the results from the different models, we chose Random Forest as the best model. Based on our findings, we would be able to identify the biggest factors to delayed flights.
 
 ### 6. Findings
 
@@ -36,7 +36,16 @@ Our main delay predictors are the time of flight schedule during the day, day of
 
 ### 7. Classification model results
 
+Due to imbalanced data between on-time and delayed data, we employed a SMOTE over-sampling method during training and validation while training our models and hyperparameters tuning. Using various cost metrics including customer compensation, staff cost, penalties and other operational costs, we calculated our model threshold to be 0.46.
+
+| Data set | Sampling | Power (TPr) | Alpha (FPr) | Beta (FNr) |
+| --- | --- | --- | --- | --- | --- | --- |
+| Training data | SMOTE | 87% | 15% | 13% |
+| Test data | Original set | 54% | 22% | 46% |
+
 <img src="images\model_results.png">
+
+Our model and test results are currently limited to resource limitations, both in terms of time and computational power. We are confident that the results could be improved further if these challenges are addressed.
 
 ### 7. Recommendations
 
