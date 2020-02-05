@@ -34,6 +34,10 @@ We attempted to use Logistic Regression, Decision Tree, Random Forest, AdaBoost,
 
 Our main delay predictors are the time of flight schedule during the day, day of the week, distance of flight route and ground temperature. Flight delays often occurs 3pm and 9pm and they are more likely on Tuesdays. Surprisingly, high temperature have a higher impact on delays compared to colder and potentially snowy days. If temperature goes above 35 degrees Celsius, delays will happen more often. This can be explained by the fact that during winter, airlines will be more prepared for snow and rain. However, in the case of extremely hot weather the crew are not meant to work in the heat for too long due labour laws and union agreements. This is further exacerbated due to the fact that there are more flights during warmer summer months than in the winter.
 
+### 7. Classification model results
+
+<img src="images\model_results.png>
+
 ### 7. Recommendations
 
 From our studies, we propose the following recommendations to United Airlines operating from its base in Newark Airport:
