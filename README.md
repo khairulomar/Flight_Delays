@@ -12,7 +12,7 @@
 
 ### 2. United Airlines at Newark Airport
 
-Newark Liberty International Airport ranked as the worst US airport in terms of delays (NY Post, 2019). According to Business Insinder (2019), only 63.9% of flights departing from the airport were on-time. Our target audience United Airlines, is the airport's biggest operator (with 64% market share) but it also has the worst on-time performance, followed by Southwest and American Eagle. Furthermore, the airline's public image had been scrutinised since 2017. The brand's reputation quickly dropped after a video of a passenger being forcefully dragged off the plane went viral and the fact that a puppy was forced to be put in an overhead bin leading to its death. 
+Newark Liberty International Airport ranked as the worst US airport in terms of delays (NY Post, 2019). According to Business Insinder (2019), only 63.9% of flights departing from the airport were on-time. Our target audience United Airlines, is not only by far the airport's biggest operator, but also has the airport's worst on-time performance compared to its competitors. Furthermore, the airline's public image had been scrutinised since 2017. The brand's reputation quickly dropped after a video of a passenger being forcefully dragged off the plane went viral and the fact that a puppy was forced to be put in an overhead bin leading to its death. 
 
 Due to these incidents, the percentage of customers considering flying with has United Airlines has dropped significantly down to 25% which accounts for 11% below the domestic airline industry average (Media Post 2018).
 
