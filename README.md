@@ -37,7 +37,7 @@ Due to imbalanced data between on-time and delayed data, we employed a SMOTE ove
 | Training data | SMOTE | 87% | 15% | 13% |
 | Test data | no sampling | 54% | 22% | 46% |
 
-At this stage, our model is only able to predict just over half of delayed flights. The high false negative is a concern as our aim was to reduce this error since it would be costlier for United Airlines to be unprepared for a flight delay when there is one, more so than to be slightly over-prepared for a delay when there is none.
+At this stage, our model is only able to predict just over half of delayed flights. The high false negative is a concern as one of our key objectives is to reduce this error since it would be costlier for United Airlines to be unprepared for a flight delay when there is one, than to be slightly over-prepared for a delay when there is none.
 
 The lower performing test results suggest that there has been some overfitting during our training stages. However, we are confident that our test results can be improved further given more time considering computational resource limitations that we faced in order to run more hyperparameter tuning tasks.
 
