@@ -36,7 +36,7 @@ Our main delay predictors are the time of flight schedule during the day, day of
 
 ### 7. Classification model results
 
-<img src="images\model_results.png>
+<img src="images\model_results.png">
 
 ### 7. Recommendations
 
