@@ -43,7 +43,7 @@ Due to imbalanced data between on-time and delayed data, we employed a SMOTE ove
 | Training data | SMOTE | 87% | 15% | 13% |
 | Test data | Original set | 54% | 22% | 46% |
 
-The lower performing test results suggest that there has been some overfitting during our training stages. However, we are confident that our test results can be improved further given more time considering computational resource limitations that we faced in order to run more hyperparameter tuning tasks.
+At this stage, our model is only able to predict just over half of delayed flights. The lower performing test results suggest that there has been some overfitting during our training stages. However, we are confident that our test results can be improved further given more time considering computational resource limitations that we faced in order to run more hyperparameter tuning tasks.
 
 <img src="images\model_results.png">
 
