@@ -16,7 +16,7 @@ Newark Liberty International Airport is ranked as the worst US airport in terms 
 
 ### 3. Project Objectives
 
-In this report, we seek to determine factors affecting United Airlines' delays (both departure and arrival) and if these factors could be reliably used as predictors to forecast if a given flight is delayed. Flight delays have negative impacts for airlines, airports and customers. For the airline, the ability to warn its passengers in advance and to be prepared with contingency plans would help them to retain the loyalty of its customer base and maintain a good public image. On the costs side of the equation, the airline will also be able to be better prepared to manage compensations, penalties and additional operational costs such as crew and aircraft retention.
+We seek to determine factors affecting United Airlines' delays (both departure and arrival) and if these factors could be reliably used as predictors to forecast if a given flight is delayed. Flight delays have negative impacts for airlines, airports and customers. For the airline, the ability to warn its passengers in advance and to be prepared with contingency plans would help them to retain the loyalty of its customer base and maintain a good public image. On the costs side of the equation, the airline will also be able to be better prepared to manage compensations, penalties and additional operational costs such as crew and aircraft retention.
 
 ### 4. Methodology
 
