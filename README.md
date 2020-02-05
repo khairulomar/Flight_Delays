@@ -39,7 +39,7 @@ Our main delay predictors are the time of flight schedule during the day, day of
 Due to imbalanced data between on-time and delayed data, we employed a SMOTE over-sampling method during training and validation while training our models and hyperparameters tuning. Using various cost metrics including customer compensation, staff cost, penalties and other operational costs, we calculated our model threshold to be 0.46.
 
 | Data set | Sampling | Power (TPr) | Alpha (FPr) | Beta (FNr) |
-| --- | --- | --- | --- | --- |
+| --- | --- | :---: | :---: | :---: |
 | Training data | SMOTE | 87% | 15% | 13% |
 | Test data | Original set | 54% | 22% | 46% |
 
